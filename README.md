@@ -54,12 +54,12 @@ You can simply run the [setup.sh](setup.sh) file which installs all the dependec
 
 In order to run the program, you just need to run [main.py](main.py) file. You can run it from your IDE or terminal.
 Make sure you are inside this directory. In the terminal, type:
-python [main.py](main.py)
+<br /><code>python [main.py](main.py)</code>
 
 ## Running the tests
 
 The testsuite file is located in this directory.
- Run the file that is named**[testsuite_YahooStockClass.py](testsuite_YahooStockClass.py)** .
+ Run the file that is named **[testsuite_YahooStockClass.py](testsuite_YahooStockClass.py)** .
  <br /> <code> python [testsuite_YahooStockClass.py](testsuite_YahooStockClass.py)</code>
 
 
