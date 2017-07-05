@@ -4,7 +4,7 @@ Yahoo Stock Finance
 
 ## Description
 
-Yahoo Stock Finance is an application that works with stock data. What does it do?
+Yahoo Stock Finance is an application that works with any stock data. What does it do?
 
 * a) program queries a user for a stock symbol and time period.
 * b) program downloads the historical data(.csv) from the Yahoo Finance website based on the user's query.
